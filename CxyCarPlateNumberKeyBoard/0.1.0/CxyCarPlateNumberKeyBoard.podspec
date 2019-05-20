@@ -2,9 +2,9 @@
 Pod::Spec.new do |s|
   s.name             = 'CxyCarPlateNumberKeyBoard'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CxyCarPlateNumberKeyBoard.'
+  s.summary          = 'A simple frame for entering a license plate number keyboard.'
   s.homepage         = 'https://github.com/yangzizong/CxyCarPlateNumberKeyBoard'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = 'MIT'
   s.author           = { 'yangzizong' => 'zhangyangmxjc@163.com' }
   s.source           = { :git => 'https://github.com/yangzizong/CxyCarPlateNumberKeyBoard.git', :tag => s.version.to_s }
 
